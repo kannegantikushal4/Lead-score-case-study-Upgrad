@@ -1,4 +1,4 @@
-# Leads case study - Upgrad
+# Leads score case study - Upgrad
 
 ## Problem statement : 
 
