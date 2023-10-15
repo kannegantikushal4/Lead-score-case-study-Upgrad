@@ -1,4 +1,5 @@
-# Leads score case study - Upgrad
+# Leads score case study - Upgrad 
+### Done by k.kushal venkata gana preetham , Kartikey Riyal , Pradyumna Kapure
 
 ## Problem statement : 
 
